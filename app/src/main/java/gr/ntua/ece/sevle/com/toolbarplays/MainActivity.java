@@ -144,18 +144,10 @@ public class MainActivity extends AppCompatActivity
         }
     @Override
     public void collapseToolbar(){
-        AppBarLayout.Behavior behavior;
-        CoordinatorLayout.LayoutParams params = (CoordinatorLayout.LayoutParams) appbar.getLayoutParams();
-        behavior = (AppBarLayout.Behavior) params.getBehavior();
-        if(behavior!=null) {
-            behavior.setTopAndBottomOffset(0);
-            behavior.onNestedPreScroll(coordinatorLayout, appbar, null, 0, 1, new int[2]);
-        }
-        //appbar.setExpanded(true); currently bugged, above code is a workaround
+        appbar.setExpanded(false,false);
         CoordinatorLayout.LayoutParams lp = (CoordinatorLayout.LayoutParams)appbar.getLayoutParams();
         lp.height = (int) getResources().getDimension(R.dimen.toolbar_height);
         toolbarCollapsedTitle.setVisibility(View.VISIBLE);
-
     }
 
     @Override
