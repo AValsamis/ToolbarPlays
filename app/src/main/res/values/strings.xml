@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ToolbarPlays</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu dolor ut erat placerat pretium sed interdum lorem. Vivamus pretium tortor sed eros mollis, id viverra ex finibus. Maecenas sed nunc nec massa rutrum tincidunt varius ut urna. Curabitur pellentesque mauris eu sem ultricies molestie. Integer ultricies condimentum mollis. Suspendisse vehicula vulputate facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer at euismod lorem, id semper ipsum. Nunc tristique nisi dolor, et tincidunt turpis imperdiet vel. Fusce ac orci a risus fringilla iaculis.
+
+Donec vehicula quis lacus eget tempus. Nam felis ipsum, vulputate a lorem vulputate, accumsan egestas sem. Sed posuere laoreet tempus. Nulla sollicitudin elit ac elit auctor rutrum. Phasellus suscipit odio mi, ac convallis quam scelerisque eu. Donec posuere auctor ante eu aliquam. In ornare varius vehicula. Vivamus quis dolor risus. Sed hendrerit sodales varius.
+
+Sed ultricies eu quam vel pharetra. Suspendisse velit neque, lacinia id maximus eu, porta nec lacus. Sed fermentum quam libero, et accumsan urna vulputate eu. Pellentesque commodo elit molestie, aliquam nunc quis, porttitor magna. Cras varius, leo nec pulvinar mattis, magna nibh cursus magna, vel volutpat tortor urna non nibh. Mauris maximus velit a quam auctor ornare at sed lorem. Sed dictum libero molestie neque scelerisque malesuada. Maecenas lacinia elit nibh, ac laoreet ante mattis vitae. In dignissim egestas augue, et mattis lectus venenatis condimentum. Donec vitae justo vel sapien placerat cursus id in eros. Nunc vitae quam maximus, lobortis augue a, ultrices nisi.
+
+Morbi tortor nisi, pulvinar nec mollis cursus, gravida et lorem. Nunc nec ex quis elit posuere placerat eu nec sapien. Integer dapibus massa eros. Donec porta, nisi nec placerat vulputate, dolor quam placerat est, ac pretium mauris quam ac neque. Etiam cursus facilisis odio, sed hendrerit felis ultricies vel. In condimentum quam eu purus malesuada, sed condimentum velit imperdiet. Maecenas ut tortor at felis venenatis porttitor. Fusce nec justo a sapien cursus ultrices. Curabitur in gravida nisi. Duis tempor, tellus sed bibendum scelerisque, magna nulla porttitor augue, ac egestas eros metus ac ligula. Suspendisse at arcu maximus, tristique massa molestie, ultrices ex. Donec lacinia pulvinar nunc eget sagittis.
+
+Curabitur augue nisi, dignissim a ornare sed, ullamcorper vel sapien. Suspendisse blandit congue vestibulum. Suspendisse vitae cursus nunc, sed fringilla augue. Nullam bibendum efficitur mi, ut viverra sapien varius accumsan. Nulla molestie, diam in dictum finibus, dolor sapien aliquet velit, dapibus hendrerit nulla sapien a nulla. Sed fringilla nisi non efficitur varius. Donec laoreet auctor laoreet. Donec fringilla ut nisi at dapibus. Sed nunc tortor, ultricies eu pretium et, suscipit id nisl. Donec cursus auctor ligula, vel hendrerit metus gravida a. Vestibulum viverra nisl et placerat feugiat. Curabitur a molestie velit, sed venenatis orci.
+
+    </string>
+</resources>
